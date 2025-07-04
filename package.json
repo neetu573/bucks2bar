@@ -1,0 +1,14 @@
+{
+  "name": "bucks2bar",
+  "version": "1.0.0",
+  "description": "## Overview The \"bucks@bar\" project is a web application designed to provide a user-friendly interface for managing and displaying information related to a bar or coffee shop. It utilizes Bootstrap for responsive design and includes custom styles and scripts to enhance functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
